@@ -5,7 +5,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/blurrywindows/yii2-key-helper.svg)](https://github.com/blurrywindows/yii2-key-helper/issues)
 
 This is a Yii 2 extension that may be used to generate unique keys.
-This kit is in development. Please do not use it yet! [Would you like to contribute?](#how-to-contribute)
 
 ## TABLE OF CONTENTS
 * [Features](#features)
@@ -30,7 +29,7 @@ This kit is in development. Please do not use it yet! [Would you like to contrib
 You may contribute in any way you want, but please contact me beforehand to prevent merge-conflicts by [creating an issue](https://github.com/blurrywindows/yii2-key-helper/issues).
 
 ## ISSUES
-If you have any questions or experience any issues with this kit, please [submit an issue](https://github.com/blurrywindows/yii2-key-helper/issues).
+If you have any questions or experience any issues with this helper, please [submit an issue](https://github.com/blurrywindows/yii2-key-helper/issues).
 
 ## READ MORE
 * https://github.com/yiisoft/yii2/blob/master/README.md
