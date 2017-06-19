@@ -8,6 +8,7 @@ This is a Yii 2 extension that may be used to generate unique keys.
 
 ## TABLE OF CONTENTS
 * [Features](#features)
+* [Requirements](#requirements)
 * [Installation](#installation)
 * [How to contribute?](#how-to-contribute)
 * [Issues](#issues)
