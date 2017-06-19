@@ -1,0 +1,17 @@
+{
+    "name": "blurrywindows/yii2-key-helper",
+    "version": "1.0.0-alpha",
+    "description": "Simple Yii 2 helper that generates unique keys and validates them against a database table and column.",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6.0",
+        "yiisoft/yii2": "~2.0.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Helpers\\": "src/"
+        }
+    }
+}
