@@ -1,6 +1,6 @@
 <?php
 
-namespace Helpers;
+namespace blurrywindows\Helpers;
 
 use yii\db\Query;
 
